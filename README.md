@@ -12,6 +12,8 @@
 ![imagem do codigo](img1.png)
 ![imagem do codigo](img2.png)
 ![imagem do codigo](img3.png)
+
+ 
 # Descrição
 Este projeto é uma aplicação web para o cadastro e gerenciamento de produtos e marcas. O sistema permite aos usuários cadastrar novos produtos, registrar marcas e visualizar resumos de pedidos. A aplicação é desenvolvida utilizando PHP para o backend e HTML/CSS para o frontend.
 
@@ -44,16 +46,25 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 **1.mysqli-** Este é um objeto que representa a conexão com o banco de dados MySQL e contém vários métodos e propriedades para interação com o banco.
 
 **2.mysqli_query-** Este método executa uma consulta SQL no banco de dados.
+![imagem](img4.png)
 
 **3.mysqli_close-** Este método encerra a conexão previamente aberta com o banco de dados.
+![imagem](img5.png)
 
 **4.mysqli_error-** Retorna uma string contendo a descrição do erro mais recente ocorrido na conexão ou na operação MySQLi.
+![imagem](img6.png)
 
 **5.require_once-** É uma construção de PHP usada para incluir e avaliar um arquivo PHP em outro arquivo. 
+![imagem](img7.png)
 
 **6.mysqli_connect-** É uma função usada para estabelecer uma conexão com um banco de dados MySQL.
+![imagem](img8.png)
 
 **7.mysqli_fetch_assoc-** É usada para obter uma linha de um conjunto de resultados de uma consulta SQL como um array associativo.
+![imagem](img9.png)
+
+**$mysqli->set_charset-**É usada para definir o conjunto de caracteres (charset) da conexão MySQLi. 
+
 
 # Estrutura de Arquivos
 
