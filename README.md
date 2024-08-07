@@ -47,6 +47,10 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 
 **4.mysqli_close-** Retorna uma string contendo a descrição do erro mais recente ocorrido na conexão ou na operação MySQLi.
 
+**5.require_once-** É uma construção de PHP usada para incluir e avaliar um arquivo PHP em outro arquivo. 
+
+**6.mysqli_connect-** É uma função usada para estabelecer uma conexão com um banco de dados MySQL.
+
 
 # Estrutura de Arquivos
 
@@ -59,5 +63,8 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 - JavaScript: Arquivos script.js e jquery-2.1.4.min.js para funcionalidades adicionais e interatividade.
 
 # Fontes Consultadas 
-Leonardo Rocha 
+Chat(GPT)
+https://www.php.net/manual/pt_BR/
+
 # Autores
+Rayssa Rafaelly Kopinski, Leonardo Rocha
