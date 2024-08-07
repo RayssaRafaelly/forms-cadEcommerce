@@ -63,7 +63,11 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 [**7.mysqli_fetch_assoc-**](https://www.php.net/manual/pt_BR/mysqli-result.fetch-assoc.php) É usada para obter uma linha de um conjunto de resultados de uma consulta SQL como um array associativo.
 ![imagem](img9.png)
 
+<<<<<<< HEAD
 [**8.mysqli->set_charset-**](https://www.php.net/manual/en/mysqli.set-charset.php) É usada para definir o conjunto de caracteres (charset) da conexão MySQLi. 
+=======
+**8.mysqli->set_charset-** É usada para definir o conjunto de caracteres (charset) da conexão MySQLi. 
+>>>>>>> ac9e2873f41ac0eca1d412a81b88ec414016fc86
 ![imagem](img10.png)
 
 
