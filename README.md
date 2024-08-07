@@ -38,12 +38,25 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 
 - jQuery: Biblioteca JavaScript usada para simplificar a manipulação do DOM e as requisições AJAX.
 
+# Métodos 
+**1.mysqli-** Este é um objeto que representa a conexão com o banco de dados MySQL e contém vários métodos e propriedades para interação com o banco.
+
+**2.mysqli_query-** Este método executa uma consulta SQL no banco de dados.
+
+**3.mysqli_close-** Este método encerra a conexão previamente aberta com o banco de dados.
+
+**4.mysqli_close-** Retorna uma string contendo a descrição do erro mais recente ocorrido na conexão ou na operação MySQLi.
+
+
 # Estrutura de Arquivos
 
-HTML: Arquivos .html para a estrutura das páginas da aplicação.
-PHP: Arquivos .php para lógica de backend e interação com o banco de dados.
-CSS: Arquivo style.css para estilos visuais da aplicação.
-JavaScript: Arquivos script.js e jquery-2.1.4.min.js para funcionalidades adicionais e interatividade.
+- HTML: Arquivos .html para a estrutura das páginas da aplicação.
+
+- PHP: Arquivos .php para lógica de backend e interação com o banco de dados.
+
+- CSS: Arquivo style.css para estilos visuais da aplicação.
+
+- JavaScript: Arquivos script.js e jquery-2.1.4.min.js para funcionalidades adicionais e interatividade.
 
 # Fontes Consultadas 
 Leonardo Rocha 
