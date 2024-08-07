@@ -1,12 +1,12 @@
 # cadEcommerce 
 
-[CadEcommerce](#cadecommerce)
-[Descrição](#descri%C3%A7%C3%A3o)
-[Introdução](#introdu%C3%A7%C3%A3o)
-[Funcionalidades](#funcionalidades)
-[Tecnologias utilizadas](#tecnologias-utilizdas)
-[Fontes Consultadas](#fontes-consultadas)
-[Autores](#autores)
+[CadEcommerce](#cadecommerce)  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Introdução](#introdu%C3%A7%C3%A3o)  
+[Funcionalidades](#funcionalidades)  
+[Tecnologias utilizadas](#tecnologias-utilizdas)  
+[Fontes Consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
 
 ![imagem do codigo](img1.png)
@@ -45,25 +45,25 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 # Métodos 
 **1.mysqli-** Este é um objeto que representa a conexão com o banco de dados MySQL e contém vários métodos e propriedades para interação com o banco.
 
-**2.mysqli_query-** Este método executa uma consulta SQL no banco de dados.
+[**2.mysqli_query-**](https://www.php.net/manual/pt_BR/mysqli.query.php) Este método executa uma consulta SQL no banco de dados.
 ![imagem](img4.png)
 
-**3.mysqli_close-** Este método encerra a conexão previamente aberta com o banco de dados.
+[**3.mysqli_close-**](https://www.php.net/manual/pt_BR/mysqli.close.php) Este método encerra a conexão previamente aberta com o banco de dados.
 ![imagem](img5.png)
 
-**4.mysqli_error-** Retorna uma string contendo a descrição do erro mais recente ocorrido na conexão ou na operação MySQLi.
+[**4.mysqli_error-**](https://www.php.net/manual/pt_BR/mysqli.error.php) Retorna uma string contendo a descrição do erro mais recente ocorrido na conexão ou na operação MySQLi.
 ![imagem](img6.png)
 
-**5.require_once-** É uma construção de PHP usada para incluir e avaliar um arquivo PHP em outro arquivo. 
+[**5.require_once-**](https://www.php.net/manual/pt_BR/function.require-once.php) É uma construção de PHP usada para incluir e avaliar um arquivo PHP em outro arquivo. 
 ![imagem](img7.png)
 
-**6.mysqli_connect-** É uma função usada para estabelecer uma conexão com um banco de dados MySQL.
+[**6.mysqli_connect-**](https://www.php.net/manual/pt_BR/function.mysqli-connect.php) É uma função usada para estabelecer uma conexão com um banco de dados MySQL.
 ![imagem](img8.png)
 
-**7.mysqli_fetch_assoc-** É usada para obter uma linha de um conjunto de resultados de uma consulta SQL como um array associativo.
+[**7.mysqli_fetch_assoc-**](https://www.php.net/manual/pt_BR/mysqli-result.fetch-assoc.php) É usada para obter uma linha de um conjunto de resultados de uma consulta SQL como um array associativo.
 ![imagem](img9.png)
 
-**8.mysqli->set_charset-**É usada para definir o conjunto de caracteres (charset) da conexão MySQLi. 
+[**8.mysqli->set_charset-**](https://www.php.net/manual/en/mysqli.set-charset.php) É usada para definir o conjunto de caracteres (charset) da conexão MySQLi. 
 ![imagem](img10.png)
 
 
@@ -78,7 +78,7 @@ O sistema foi criado como parte de um projeto de programação web para facilita
 - JavaScript: Arquivos script.js e jquery-2.1.4.min.js para funcionalidades adicionais e interatividade.
 
 # Fontes Consultadas 
-Chat(GPT)
+Chat(GPT)  
 https://www.php.net/manual/pt_BR/
 
 # Autores
